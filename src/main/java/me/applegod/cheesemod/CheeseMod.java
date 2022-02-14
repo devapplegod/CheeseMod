@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
 @Mod("cheesemod")
 public class CheeseMod
 {
-    // Directly reference a log4j logger.
+
     private static final Logger LOGGER = LogManager.getLogger();
 
     public CheeseMod() {
